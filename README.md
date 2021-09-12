@@ -1,7 +1,7 @@
 # FindCityApp
 Simple app to calculate number of cities responded by API with RESTful webservice and reactJs .
 
-# How to start application with shots:-
+# How to start application with Screen-shots:-
 # Prerequisite:-
 * Will need to install nodeJs, npm, yarn, AdoptJdk 14/ or above 11.
 * Will need IDE's like intellij/STS/Eclipse to import Maven project.
