@@ -1,5 +1,5 @@
 # FindCityApp
-Simple app to calculate number of cities responded by API with restFul webservice and reactJs .
+Simple app to calculate number of cities responded by API with RESTful webservice and reactJs .
 
 # How to start application with shots:-
 # Prerequisite:-
@@ -37,3 +37,13 @@ Simple app to calculate number of cities responded by API with restFul webservic
 ![Screenshot from 2021-09-13 01-38-43](https://user-images.githubusercontent.com/44295222/133001325-375c775a-b3a6-406c-9b69-b6e3592cfe24.png)
 
 Now you can search cities by initial letters.
+
+Hi! this one is simple application and can be enhanced in future by using good UI libraries. 
+
+# About Developer
+Hi! I am Shubham Naik, Currently working with Wipro limited as a full-stack developer on front-end frameworks like ReactJs and BackEnd FrameWorks like SpringBoot and JPA.
+Developer:- Shubham Naik
+Email:- shubhnaik.19@gmail.com
+Phone no.:- 8770419477
+
+Hope you like my work.
