@@ -38,6 +38,11 @@ Simple app to calculate number of cities responded by API with RESTful webservic
 
 Now you can search cities by initial letters.
 
+# WebApp Screen-Shots:-
+![Screenshot from 2021-09-13 03-25-42](https://user-images.githubusercontent.com/44295222/133004007-75d189ac-f976-4d0f-93ca-47af9a1ff875.png)
+![Screenshot from 2021-09-13 03-26-10](https://user-images.githubusercontent.com/44295222/133004008-ea8a230b-29fc-4b2a-b313-e9ca4bba562e.png)
+
+
 Hi! this one is simple application and can be enhanced in future by using good UI libraries. 
 
 # About Developer
